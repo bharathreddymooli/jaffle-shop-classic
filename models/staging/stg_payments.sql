@@ -22,4 +22,4 @@ renamed as (
 
 )
 
-select * from payments
+select * from renamed
