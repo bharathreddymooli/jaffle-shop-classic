@@ -19,4 +19,4 @@ renamed as (
 
 )
 
-select * from customers;
+select * from customers

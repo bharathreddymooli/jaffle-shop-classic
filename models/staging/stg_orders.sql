@@ -20,4 +20,4 @@ renamed as (
 
 )
 
-select * from orders;
+select * from orders
