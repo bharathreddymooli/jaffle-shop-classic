@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: test
+    description: "just practicing the concept learnt by creating a sample table"
+
+    columns:
+      - name: ticketnumber
+        tests:
+          - unique
+          - not_null

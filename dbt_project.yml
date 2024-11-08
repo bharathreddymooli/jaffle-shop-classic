@@ -24,3 +24,8 @@ models:
     materialized: table
     staging:
       materialized: view
+    practice:
+      materialized: table
+    practice1: 
+      materialized: view
+
